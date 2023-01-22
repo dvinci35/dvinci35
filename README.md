@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dvinci35
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on any work requiring analysis of any type of data. I have a background in Medical Science, specifically Physical Therapy.
-- 📫 How to reach me - dewang.vinchhi@gmail.com
+👋 Hi, I’m @dvinci35
+
+Enrolled in BCA. Mesmerized by implementation of AI and DL in various fields of technology.
+Enrolled in Data Science Leader's Program offered by univ.ai
 
 <!---
 dvinci35/dvinci35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
